@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f365f274-084a-40c0-8099-c3e67b6ed9eb" name="Default Changelist" comment="" />
+    <list default="true" id="f365f274-084a-40c0-8099-c3e67b6ed9eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/App1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/migrations/0002_auto_20201026_0952.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/migrations/0003_auto_20201026_0953.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/App1/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travelo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travelo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Travelo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Travelo/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/asd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/urls.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +36,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Django_rest_framework" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iMzKYssXbmAZmrhxFNWgZZXSXU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
